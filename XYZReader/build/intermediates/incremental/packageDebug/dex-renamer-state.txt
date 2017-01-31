@@ -1,0 +1,7 @@
+#Tue Jan 31 13:47:58 AMT 2017
+base.0=C\:\\Users\\vlad.SYNOPSYS\\Downloads\\Nanodegree__Project__5\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7a5bff49fd091106a6f6da30389b7c7807d25bc2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\vlad.SYNOPSYS\\Downloads\\Nanodegree__Project__5\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69c084c05d89373edd4cf6646985d45038d526a9\\classes.dex
+base.1=C\:\\Users\\vlad.SYNOPSYS\\Downloads\\Nanodegree__Project__5\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69c084c05d89373edd4cf6646985d45038d526a9
+file.0=C\:\\Users\\vlad.SYNOPSYS\\Downloads\\Nanodegree__Project__5\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7a5bff49fd091106a6f6da30389b7c7807d25bc2\\classes.dex
